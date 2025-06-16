@@ -1,0 +1,3 @@
+displayName = Player Gaze At Cursor
+author = MagicMushies
+version = 1.1.5
